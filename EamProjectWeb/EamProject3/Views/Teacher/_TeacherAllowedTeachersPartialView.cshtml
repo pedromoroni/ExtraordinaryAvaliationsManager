@@ -1,0 +1,32 @@
+﻿@model EamProject3.Models.AllowedTeachersModel
+
+<style>
+    select {
+        width: auto;
+        min-width: 250px;
+        max-width: 650px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+        transition: border 0.3s;
+    }
+
+    select:focus {
+        border-color: #007BFF;
+        outline: none;
+    }
+</style>
+
+<label class="label">Select the Teacher</label>
+<br />
+<select class="changeTeacherSelect" required>
+    <option selected disabled>Select the teacher</option>
+    @if (Model != null)
+    {
+        @foreach (User teacher in Model.Teachers)
+        {
+            <option value="@teacher.Id">@teacher.FirstName @teacher.LastName</option>
+        }
+    }
+</select>

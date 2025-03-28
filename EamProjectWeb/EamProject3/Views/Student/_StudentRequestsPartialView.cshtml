@@ -1,0 +1,58 @@
+﻿@model EamProject3.Models.UserDashboardViewModel
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Number</th>
+            <th>Status</th>
+            <th>Exame Date/Time</th>
+            <th>Duration (minutes)</th>
+            <th>Subject / Module</th>
+            <th>Teacher</th>
+        </tr>
+    </thead>
+    <tbody id="table-body">
+        @foreach (var request in Model.Requests
+            .OrderByDescending(c => c.Id))
+        {
+
+            <tr data-id="@request.Id">
+                @if (request.StatusId == 1)
+                {
+                    <td>
+                        <a class="load-partial cancel_button" style="color:red;" asp-controller="Student" asp-action="CancelRequest" asp-route-id="@request.Id">Cancel</a>
+                    </td>
+                }
+                else
+                {
+                    <td></td>
+                }
+                <td>@request.Number</td>
+                @if (request.StatusId == 4 || request.StatusId == 5)
+                {
+                    <td>
+                        <a class="load-partial" asp-controller="Student" asp-action="PaidRequestInfo" asp-route-id="@request.Id">@request.Status.Description</a>
+                    </td>
+                }
+                else
+                {
+                    <td>@request.Status.Description</td>
+                }
+                <td>@request.ExamDatetime.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@request.DurationMin</td>
+                <td>@request.Module.Subject.Name / @request.Module.Name</td>
+                <td>@request.Teacher.FirstName @request.Teacher.LastName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Inicializar DataTables -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let table = new DataTable('#myTable');
+    });
+</script>

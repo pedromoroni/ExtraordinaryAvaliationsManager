@@ -1,0 +1,104 @@
+﻿/* Centraliza o conteúdo na tela */
+.container {
+    max-width: 500px;
+    margin: 64px auto;
+    padding: 24px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal */
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Grupo de formulário */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Labels */
+.label {
+    display: block;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+/* Inputs e Select */
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border 0.3s;
+}
+
+    .input:focus {
+        border-color: #007BFF;
+        outline: none;
+    }
+
+/* Caixas para módulos e professores */
+.box {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+.cancel {
+    padding: 12px 25px;
+    font-size: 1.1em;
+    margin: 5px;
+    background-color: #d10007;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+    .cancel:hover {
+        background-color: #a80207;
+        color: white;
+    }
+
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #4CAF50; /* Cor de fundo verde */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    /* Efeito ao passar o mouse */
+    .submit-btn:hover {
+        background-color: #45a049; /* Verde mais escuro ao passar o mouse */
+        transform: scale(1.02); /* Aumenta o tamanho do botão */
+    }
+
+    /* Efeito ao pressionar o botão */
+    .submit-btn:active {
+        background-color: #388e3c; /* Verde ainda mais escuro */
+        transform: scale(0.98); /* Diminui o tamanho levemente */
+    }
+
+    /* Foco no botão (quando o botão está em foco) */
+    .submit-btn:focus {
+        outline: none;
+        box-shadow: 0 0 5px rgba(72, 145, 60, 0.8); /* Adiciona um brilho de foco */
+    }

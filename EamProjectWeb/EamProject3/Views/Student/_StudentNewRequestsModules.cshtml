@@ -1,0 +1,9 @@
+﻿@model EamProject3.Models.CreateNewRequestModel
+
+<label class="label">Select the Module</label>
+<select asp-for="ModuleId" class="input" required>
+    @foreach (Module module in Model.Modules)
+    {
+        <option value="@module.Id">@module.Name</option>
+    }
+</select>

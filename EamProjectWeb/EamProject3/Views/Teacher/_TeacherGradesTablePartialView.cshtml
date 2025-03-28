@@ -1,0 +1,30 @@
+﻿@model List<EamProject3.Models.StudentGrade>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student Identification</th>
+            <th>Student Name</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null) {
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    @if (Model[i].Student != null)
+                    {
+                        <td>@Model[i].Student!.Identification</td>
+                        <td>@Model[i].Student!.FirstName @Model[i].Student!.LastName</td>
+                        <td>
+                            <input type="hidden" name="StudentGrades[@i].studentId" value="@Model[i].StudentId" />
+                            <input type="number" name="StudentGrades[@i].grade" min="1" max="20" required/>
+                        </td>
+                    }
+                </tr>                
+            }
+        }
+    </tbody>
+</table>
+<input type="submit" class="save" value="Submit"/>

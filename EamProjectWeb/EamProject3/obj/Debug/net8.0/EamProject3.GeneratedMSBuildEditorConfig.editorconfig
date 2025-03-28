@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EamProject3
+build_property.RootNamespace = EamProject3
+build_property.ProjectDir = C:\Users\klach\Documents\EamFinal2\EamProject3\EamProject3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\klach\Documents\EamFinal2\EamProject3\EamProject3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Secretary/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Secretary/_SecretaryManageRequestPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XF9TZWNyZXRhcnlNYW5hZ2VSZXF1ZXN0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Secretary/_SecretaryPaidRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XF9TZWNyZXRhcnlQYWlkUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Secretary/_SecretaryRequestsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XF9TZWNyZXRhcnlSZXF1ZXN0c1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentGradesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudEdyYWRlc1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentNewRequestPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudE5ld1JlcXVlc3RQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentNewRequestsModules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudE5ld1JlcXVlc3RzTW9kdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentNewRequestTeachers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudE5ld1JlcXVlc3RUZWFjaGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentPaidRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudFBhaWRSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Student/_StudentRequestsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU3R1ZGVudFJlcXVlc3RzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherAllowedTeachersPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlckFsbG93ZWRUZWFjaGVyc1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherEnterGradesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlckVudGVyR3JhZGVzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherGradesTablePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlckdyYWRlc1RhYmxlUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherManageRequestPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlck1hbmFnZVJlcXVlc3RQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherManageRequestTeacherPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlck1hbmFnZVJlcXVlc3RUZWFjaGVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherRequestModuleStudentsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlclJlcXVlc3RNb2R1bGVTdHVkZW50c1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Teacher/_TeacherRequestsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfVGVhY2hlclJlcXVlc3RzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/klach/Documents/EamFinal2/EamProject3/EamProject3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ymssymqtfd

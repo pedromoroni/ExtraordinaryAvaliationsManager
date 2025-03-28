@@ -1,0 +1,12 @@
+﻿@model EamProject3.Models.CreateNewRequestModel
+
+<label class="label">Select the Teacher</label>
+<select asp-for="TeacherId" class="input" required>
+    @if (Model != null)
+    {
+        @foreach (User teacher in Model.Teachers)
+        {
+            <option value="@teacher.Id">@teacher.Identification - @teacher.FirstName @teacher.LastName</option>
+        }
+    }
+</select>

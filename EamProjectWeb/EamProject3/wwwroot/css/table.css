@@ -1,0 +1,23 @@
+﻿.table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+    .table th,
+    .table td {
+        padding: 15px;
+        border: 1px solid #ddd;
+        vertical-align: middle;
+    }
+
+    .table th {
+        background-color: #0066cc;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    .table td {
+        background-color: #fff;
+        color: #333;
+    }

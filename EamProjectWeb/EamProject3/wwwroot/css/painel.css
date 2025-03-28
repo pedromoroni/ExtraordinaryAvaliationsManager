@@ -1,0 +1,70 @@
+.card {
+    display: flex;
+    flex-direction: row; /* Garante que os elementos fiquem lado a lado */
+    align-items: stretch; /* Faz com que ambos tenham a mesma altura */
+    margin: 15px;
+}
+
+.left {
+    width: 260px;
+    min-height: calc(100vh - 56px);
+    background: #303e69;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; /* Mantém os itens empilhados */
+}
+
+    .left img {
+        width: 130px;
+        height: 130px;
+        border-radius: 20%;
+        background: white;
+        display: block;
+        margin: 0 auto; /* Centraliza horizontalmente */
+    }
+
+
+    .left h3 {
+        margin-bottom: 10px;
+        text-align: center;
+        align-content: center;
+        display: block;
+        color: white;
+        font-size: 1.17em;
+        margin: 0 auto; /* Centraliza horizontalmente */
+    }
+
+.right {
+    flex: 1; /* Ocupa o restante do espaço */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+    .right h1 {
+        margin: 0;
+        font-size: 24px;
+        color: #333;
+    }
+
+.info {
+    margin-top: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.cancel_button {
+    color: lightslategray;
+}
+
+    .cancel_button:hover {
+        color: lightcoral;
+    }
+
+.manage_button {
+    color: #303e69;
+}
+    .manage_button:hover {
+        color: #222c4d;
+    }

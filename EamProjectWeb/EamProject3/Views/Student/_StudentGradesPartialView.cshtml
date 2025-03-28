@@ -1,0 +1,37 @@
+﻿@model List<EamProject3.Models.Request>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+            <th>Number</th>
+            <th>Exame Date/Time</th>
+            <th>Duration</th>
+            <th>Subject / Module</th>
+            <th>Teacher</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody id="table-body">
+        @foreach (Request request in Model)
+        {
+
+            <tr data-id="@request.Id">
+                <td>@request.Number</td>
+                <td>@request.ExamDatetime.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@request.DurationMin</td>
+                <td>@request.Module.Subject.Name / @request.Module.Name</td>
+                <td>@request.Teacher.FirstName @request.Teacher.LastName</td>
+                <td>@(request.Grade == null ? "N/A" : request.Grade)</td> 
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Inicializar DataTables -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let table = new DataTable('#myTable');
+    });
+</script>

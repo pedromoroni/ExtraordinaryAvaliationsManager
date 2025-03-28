@@ -1,0 +1,38 @@
+﻿@model EamProject3.Models.UserDashboardViewModel
+@{
+    ViewData["Title"] = "Secretary Main";
+}
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/painel.css" />
+    <script src="~/js/site.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
+</head>
+<body>
+    <div class="card">
+        @if (Model != null)
+        {
+            <div class="left" style="width:260px;">
+                <br />
+                <img id="profile-img" src="data:image/jpeg;base64, @Model.ProfilePictureBase64" alt="Profile Picture">
+                <h3>@Model.User.FirstName @Model.User.LastName</h3>
+                <br /><br />
+                <div class="info">
+                    <p style="font-size:22px;">Identification: @Model.User.Identification</p>
+                    <p style="font-size:20px;">@Model.User.BirthDate</p>
+                    <p style="font-size:20px;">Role: Secretary</p>
+                </div>          
+            </div>                  
+            <div class="right">
+                @await Html.PartialAsync("_SecretaryRequestsPartialView", Model)
+            </div>
+        }
+    </div>
+</body>
+</html>

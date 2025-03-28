@@ -1,0 +1,47 @@
+﻿@model EamProject3.Models.UserDashboardViewModel
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Number</th>
+            <th>Status</th>
+            <th>Student</th>
+            <th>Exame Date/Time</th>
+            <th>Duration (minutes)</th>
+            <th>Subject / Module</th>
+        </tr>
+    </thead>
+    <tbody id="table-body">
+        @foreach (var request in Model.Requests
+            .OrderByDescending(c => c.Id))
+        {
+
+            <tr data-id="@request.Id">
+                @if (request.StatusId == 1)
+                {
+                    <td><a class="load-partial manage_button" asp-controller="Teacher" asp-action="ManageRequest" asp-route-id="@request.Id">Manage</a></td>
+                }
+                else
+                {
+                    <td></td>
+                }
+                <td>@request.Number</td>
+                <td>@request.Status.Description</td>
+                <td>@request.Student.FirstName @request.Student.FirstName</td>
+                <td>@request.ExamDatetime.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@request.DurationMin</td>
+                <td>@request.Module.Subject.Name / @request.Module.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Inicializar DataTables -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let table = new DataTable('#myTable');
+    });
+</script>

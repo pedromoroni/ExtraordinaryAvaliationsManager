@@ -1,0 +1,7 @@
+﻿@model EamProject3.Models.User
+
+<h3>Teacher</h3>
+<input type="hidden" name="teacherId" value="@Model.Id" /> 
+<img class="profile-img" src="data:image/jpeg;base64, @Model.ProfilePic" alt="Profile Picture"> <!--É preciso converter-->
+<p>@Model.FirstName @Model.LastName</p>
+<p><strong>Identification:</strong> @Model.Identification</p>

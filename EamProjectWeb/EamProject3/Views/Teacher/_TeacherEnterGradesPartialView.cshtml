@@ -1,0 +1,25 @@
+﻿@model EamProject3.Models.ModuleGradesModel
+
+<link rel="stylesheet" href="~/css/manage_request.css" />
+<link rel="stylesheet" href="~/css/new_request.css" />
+<form asp-action="SubmitGrades" method="post">
+    <h1>Select the Module</h1>
+    <select asp-for="SelectedModule.ModuleId" class="enter-grades-module input" required>
+        <option selected disabled>Select the Module</option>
+        @foreach (Request request in Model.Teacher.RequestTeachers
+        .Where(c => c.StatusId == 4)
+        .Where(c => c.ExamDatetime <= DateTime.Now)
+        .DistinctBy(r => new { r.Module.Id, r.ExamDatetime }))
+        {
+            <option value="@request.Module.Id" data-examdatetime="@request.ExamDatetime.ToString("o")">
+                @request.Module.Subject.Name - @request.Module.Name - @request.ExamDatetime
+            </option>
+        }
+    </select>
+
+    <input type="hidden" name="SelectedModule.ExamDateTime" id="examDateTimeHidden" />
+
+    <div id="students-grades-painel">
+
+    </div>
+</form>

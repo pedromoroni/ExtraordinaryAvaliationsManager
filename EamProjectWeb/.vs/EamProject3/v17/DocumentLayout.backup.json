@@ -1,0 +1,1036 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teacherrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teacherrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teacherrequestmodulestudentspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teacherrequestmodulestudentspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\secretary\\_secretaryrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\secretary\\_secretaryrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentrequestspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentpaidrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentpaidrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentnewrequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentnewrequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teachermanagerequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teachermanagerequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentnewrequestsmodules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentnewrequestsmodules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\controllers\\secretarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\controllers\\secretarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\secretary\\_secretarymanagerequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\secretary\\_secretarymanagerequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\secretary\\_secretarypaidrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\secretary\\_secretarypaidrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\eamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\eamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\requestsituationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\requestsituationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\painel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\painel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\new_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\new_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\manage_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\manage_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teacherentergradespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teacherentergradespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentgradespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentgradespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teachergradestablepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teachergradestablepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teacherallowedteacherspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teacherallowedteacherspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\student\\_studentnewrequestteachers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\student\\_studentnewrequestteachers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\helpers\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\helpers\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\_teachermanagerequestteacherpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\_teachermanagerequestteacherpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\secretary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\secretary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\modulegradesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\modulegradesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\createnewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\createnewrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\moduleselectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\moduleselectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\paid_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\paid_request.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\allowedteachersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\allowedteachersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\teachersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\teachersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\eamlogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\eamlogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\eamproject3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\eamproject3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|c:\\users\\pedro\\downloads\\eamproject3backupxpto2\\eamproject3\\eamproject3\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EA48C-B237-4AD4-B0C0-A9B785CBC2AE}|EamProject3\\EamProject3.csproj|solutionrelative:eamproject3\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_SecretaryRequestsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryRequestsPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Secretary\\_SecretaryRequestsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryRequestsPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Secretary\\_SecretaryRequestsPartialView.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T14:09:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_StudentPaidRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentPaidRequest.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentPaidRequest.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentPaidRequest.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentPaidRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T14:57:46.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_StudentRequestsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentRequestsPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentRequestsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentRequestsPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentRequestsPartialView.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:51:05.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_TeacherRequestModuleStudentsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherRequestModuleStudentsPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherRequestModuleStudentsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherRequestModuleStudentsPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherRequestModuleStudentsPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T18:21:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TeacherRequestsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherRequestsPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherRequestsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherRequestsPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherRequestsPartialView.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T16:33:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EamProject3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:46:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_StudentNewRequestPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentNewRequestPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentNewRequestPartialView.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:52:34.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_TeacherManageRequestPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherManageRequestPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherManageRequestPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherManageRequestPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherManageRequestPartialView.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T20:23:45.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_StudentNewRequestsModules.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestsModules.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentNewRequestsModules.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestsModules.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentNewRequestsModules.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T07:45:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecretaryController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\SecretaryController.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Controllers\\SecretaryController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\SecretaryController.cs",
+              "RelativeToolTip": "EamProject3\\Controllers\\SecretaryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:45:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_SecretaryPaidRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryPaidRequest.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Secretary\\_SecretaryPaidRequest.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryPaidRequest.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Secretary\\_SecretaryPaidRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:59:28.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_SecretaryManageRequestPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryManageRequestPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Secretary\\_SecretaryManageRequestPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\_SecretaryManageRequestPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Secretary\\_SecretaryManageRequestPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T12:02:37.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EamDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\EamDbContext.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\EamDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\EamDbContext.cs",
+              "RelativeToolTip": "EamProject3\\Models\\EamDbContext.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:47:11.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Request.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Request.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:43:28.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestSituationModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\RequestSituationModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\RequestSituationModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\RequestSituationModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\RequestSituationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:14:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequestHistory.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\RequestHistory.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\RequestHistory.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\RequestHistory.cs",
+              "RelativeToolTip": "EamProject3\\Models\\RequestHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:14:32.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Course.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:59:06.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "EamProject3\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:46:20.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "painel.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\painel.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\painel.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\painel.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\painel.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T12:58:01.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T07:56:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "new_request.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\new_request.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\new_request.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\new_request.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\new_request.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T12:09:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "manage_request.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\manage_request.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\manage_request.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\manage_request.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\manage_request.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T13:20:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_TeacherEnterGradesPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherEnterGradesPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherEnterGradesPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherEnterGradesPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherEnterGradesPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T18:04:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_StudentGradesPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentGradesPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentGradesPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentGradesPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentGradesPartialView.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T15:07:57.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_TeacherGradesTablePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherGradesTablePartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherGradesTablePartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherGradesTablePartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherGradesTablePartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:22:00.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_TeacherAllowedTeachersPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherAllowedTeachersPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherAllowedTeachersPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherAllowedTeachersPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherAllowedTeachersPartialView.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T17:31:30.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:50:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_StudentNewRequestTeachers.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestTeachers.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Student\\_StudentNewRequestTeachers.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Student\\_StudentNewRequestTeachers.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Student\\_StudentNewRequestTeachers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:49:31.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NoCacheAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Helpers\\NoCacheAttribute.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Helpers\\NoCacheAttribute.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Helpers\\NoCacheAttribute.cs",
+              "RelativeToolTip": "EamProject3\\Helpers\\NoCacheAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:44:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EamProject3\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwIcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T14:39:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_TeacherManageRequestTeacherPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherManageRequestTeacherPartialView.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\_TeacherManageRequestTeacherPartialView.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\_TeacherManageRequestTeacherPartialView.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\_TeacherManageRequestTeacherPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T18:06:10.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Helpers\\Helper.cs",
+              "RelativeToolTip": "EamProject3\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:15:25.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EamProject3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:44:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EamProject3\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:36:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\Index.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Secretary\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Secretary\\Index.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Secretary\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T14:09:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ModuleGradesModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ModuleGradesModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\ModuleGradesModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ModuleGradesModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\ModuleGradesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:12:25.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateNewRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\CreateNewRequestModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\CreateNewRequestModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\CreateNewRequestModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\CreateNewRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:34:40.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ModuleSelectionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ModuleSelectionViewModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\ModuleSelectionViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ModuleSelectionViewModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\ModuleSelectionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:00:42.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Program.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Program.cs",
+              "RelativeToolTip": "EamProject3\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:19:49.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:41:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\StudentGrade.cs",
+              "RelativeToolTip": "EamProject3\\Models\\StudentGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:16:07.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "paid_request.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\paid_request.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\paid_request.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\paid_request.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\paid_request.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-08T18:20:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AllowedTeachersModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\AllowedTeachersModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\AllowedTeachersModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\AllowedTeachersModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\AllowedTeachersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:33:08.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T16:31:14.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "table.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\table.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\table.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\table.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\table.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T07:58:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T15:54:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T09:27:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:40:57.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:42:18.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EamProject3\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-07T12:38:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EamProject3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EamProject3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T20:07:12.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TeacherSubject.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\TeacherSubject.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\TeacherSubject.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\TeacherSubject.cs",
+              "RelativeToolTip": "EamProject3\\Models\\TeacherSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:58:35.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Role.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:03:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "eamlogo.png",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\eamlogo.png",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\eamlogo.png",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\eamlogo.png",
+              "RelativeToolTip": "EamProject3\\wwwroot\\eamlogo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-03T16:48:29.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\UserDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\UserDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\UserDashboardViewModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\UserDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:42:48.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\User.cs",
+              "RelativeToolTip": "EamProject3\\Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:44:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EamProject3",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\EamProject3.csproj",
+              "RelativeDocumentMoniker": "EamProject3\\EamProject3.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\EamProject3.csproj",
+              "RelativeToolTip": "EamProject3\\EamProject3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T14:01:27.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Class.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Class.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:02:34.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Module.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Module.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:14:33.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Subject.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:58:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "EamProject3\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "EamProject3\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T12:57:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EamProject3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:47:12.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "EamProject3\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\pedro\\Downloads\\EamProject3BackupXpto2\\EamProject3\\EamProject3\\Models\\Status.cs",
+              "RelativeToolTip": "EamProject3\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:02:47.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

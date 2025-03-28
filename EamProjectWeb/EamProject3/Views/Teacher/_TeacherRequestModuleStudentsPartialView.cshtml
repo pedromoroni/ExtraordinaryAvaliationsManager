@@ -1,0 +1,6 @@
+﻿@model EamProject3.Models.Module
+
+@foreach (Request request in Model.Requests)
+{
+    <a>@request.Student.FirstName @request.Student.LastName</a>
+}

@@ -1,0 +1,66 @@
+﻿@model EamProject3.Models.Request
+@{
+    ViewData["Title"] = "Manage Request";
+}
+
+<link rel="stylesheet" href="~/css/manage_request.css" />
+<div class="container">
+    <form asp-action="SaveRequest" method="post">
+        <h1>Manage Request</h1>
+        <h2>@Model.Number</h2>
+
+        <div class="requestinfo">
+            <p><strong>Status:</strong> @Model.Status.Description</p>
+            <p><strong>Exam Date:</strong> @Model.ExamDatetime</p>
+            <p><strong>Duration (minutes):</strong></p><input type="number" name="durationMin" value="@Model.DurationMin" min="15" max="1440" />
+            <p><strong>Course:</strong> @Model.Course.Name (@Model.Course.Abbreviation)</p>
+            <p><strong>Subject:</strong> @Model.Module.Subject.Name</p>
+            <p><strong>Module:</strong> @Model.Module.Name</p>
+        </div>
+
+        <div class="panel">
+            <h3>Student</h3>
+            <img class="profile-img" src="data:image/jpeg;base64, @Model.Student.ProfilePic" alt="Profile Picture"> <!--É preciso converter-->
+            <p>@Model.Student.FirstName @Model.Student.LastName</p>
+            <p><strong>Identification:</strong> @Model.Student.Identification</p>
+            <p><strong>Course:</strong> @(Model.Student.Class != null ? Model.Student.Class.Course.Name : "N/A")</p> <!--So para ter não explodir-->
+            <p><strong>Class:</strong> @(Model.Student.Class != null ? Model.Student.Class.Name : "N/A")</p>
+        </div>
+
+        <input type="hidden" name="id" value="@Model.Id" />
+        <div class="panel teacher-manage-request">
+            @await Html.PartialAsync("_TeacherManageRequestTeacherPartialView", Model.Teacher)
+            <a class="teacher-change change" asp-controller="Teacher" asp-action="AvailableTeachers" asp-route-id="@Model.Module.Subject.Id">Change Teacher</a>
+        </div>
+        <br />
+
+        <div class="panel-teacher">
+
+        </div>
+        <br />
+
+        <div class="button-group">
+            <input id="save_manage_request" style="display:none" type="submit" class="save" value="Save" />
+            <a id="cancel_manage_request" style="display:none" class="cancel load-partial" asp-controller="Teacher" asp-action="ManageRequest" asp-route-id="@Model.Id">Cancel</a>
+        </div>
+    </form>
+    <div class="button-group">
+        <form asp-action="AcceptRequest" method="post" id="acceptForm">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <input type="hidden" name="durationMin" id="durationMinField" value="@Model.DurationMin" />  
+            <input id="accept_manage_request" style="width:100px;display:inline-block" type="submit" class="accept" value="Accept" />
+        </form>
+        <form asp-action="DenyRequest" method="post">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <input id="deny_manage_request" style="width:100px;display:inline-block" type="submit" class="deny" value="Deny" />
+        </form>
+    </div>
+</div>
+
+<script>
+    // Quando o formulário de aceitação for enviado, atualize o campo oculto com o valor de DurationMin
+    document.getElementById("acceptForm").addEventListener("submit", function () {
+        var durationMinValue = document.querySelector('input[name="durationMin"]').value; // Pega o valor do campo visível
+        document.getElementById("durationMinField").value = durationMinValue; // Atualiza o campo oculto
+    });
+</script>
