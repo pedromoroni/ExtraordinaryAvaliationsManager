@@ -5,6 +5,7 @@ Neste projecto pretende-se um sistema de informação que faça a gestão das in
 e pagamentos das inscrições dos alunos nas avaliações extraordinárias que
 têm lugar a pagamento, mesmo quando efectuadas em época de recuperações
 prevista em calendário.
+
 O processo de pedido de avaliação extraordinária (AE) passa por três “actores” no
 sistema: o aluno, que faz o pedido, o professor, que valida esse pedido, e a secretaria
 que regista o pagamento pelo aluno da AE.
@@ -15,12 +16,14 @@ suportar a introdução de outras situações.
 Cada pedido deve ser numerado automaticamente com o número de ordem do pedido
 e do número do aluno. Por exemplo, 02/I180500 seria o segundo pedido do aluno de
 número 180500.
+
 O pedido deve indicar qual a data e hora do exame, duração, o curso, a disciplina e o
 módulo (ou UFCD) que se pretende e ainda o professor que irá realizar a AE.
 Uma vez inserido o pedido, o mesmo tem de ser validado pelo professor, passando ao
 estado “para pagamento” (ou “não aprovado”, situação que termina o processo).
 Quando o pagamento for efectuado, a secretaria altera o pedido do pedido para “pago”,
 indicando qual a forma de pagamento.
+
 Na altura de validação, o professor pode alterar a duração da AE, mas não a data e a
 hora. Pode também indicar um novo professor para fazer a AE, mantendo-se nesse
 caso o estado do pedido em “para aprovação”.
