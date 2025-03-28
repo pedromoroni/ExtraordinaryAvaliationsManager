@@ -1,6 +1,6 @@
-#Gestão Inscrições em Avaliações Extraordinárias
+# Gestão Inscrições em Avaliações Extraordinárias
 
-##Descrição do Sistema
+## Descrição do Sistema
 Neste projecto pretende-se um sistema de informação que faça a gestão das inscrições
 e pagamentos das inscrições dos alunos do INETE nas avaliações extraordinárias que
 têm lugar a pagamento, mesmo quando efectuadas em época de recuperações
@@ -32,7 +32,7 @@ registada a data e hora em que esse passo foi efectuado, sendo necessário contr
 sobre o estado do pedido de AE. Por exemplo, a secretaria não pode marcar um
 pedido como “pago” se não estiver no estado “aprovado”.
 
-##Implementação
+## Implementação
 Na implementação do sistema, todo o processo de pedido de uma AE terá de ser feita
 via web.
 O backoffice (inserir/actualizar alunos, curso, disciplinas, etc.) pode ser feita utilizando
