@@ -2,7 +2,7 @@
 
 ## Descrição do Sistema
 Neste projecto pretende-se um sistema de informação que faça a gestão das inscrições
-e pagamentos das inscrições dos alunos do INETE nas avaliações extraordinárias que
+e pagamentos das inscrições dos alunos nas avaliações extraordinárias que
 têm lugar a pagamento, mesmo quando efectuadas em época de recuperações
 prevista em calendário.
 O processo de pedido de avaliação extraordinária (AE) passa por três “actores” no
